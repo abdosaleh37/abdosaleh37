@@ -66,16 +66,6 @@ I'm a passionate **Full Stack Developer** with a strong focus on building scalab
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdosaleh37&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 [![Abdo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdosaleh37&theme=react-dark&hide_border=true)](https://github.com/abdosaleh37)
