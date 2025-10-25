@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdosaleh3742103@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdosaleh37)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdosaleh37&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
@@ -84,19 +82,6 @@ I'm a passionate **Full Stack Developer** with a strong focus on building scalab
 
 ---
 
-## 🌟 Featured Projects
-
-<!-- Add your best projects here -->
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚀 **Coming Soon** | Exciting projects in development | ASP.NET Core, Angular |
-
-</div>
-
----
-
 ## 💬 Connect With Me
 
 <div align="center">
@@ -116,8 +101,5 @@ I'm always excited to connect with fellow developers and tech enthusiasts!
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✨ Show some ❤️ by starring some repositories!
-
-**⭐️ From [abdosaleh37](https://github.com/abdosaleh37) with 💻 and ☕**
 
 </div>
