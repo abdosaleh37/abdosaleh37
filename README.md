@@ -17,8 +17,6 @@ I'm a passionate full stack developer interested in building innovative solution
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -35,8 +33,6 @@ I'm a passionate full stack developer interested in building innovative solution
 - Email: [abdosaleh3742103@gmail.com](mailto:abdosaleh3742103@gmail.com)
 - LinkedIn: [abdosaleh37](https://linkedin.com/in/abdosaleh37)
 
-## 💡 Fun Fact
-⚡ I love solving complex problems and turning coffee into code!
 
 ---
 ⭐️ From [abdosaleh37](https://github.com/abdosaleh37)
