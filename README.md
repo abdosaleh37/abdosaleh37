@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Abdo Saleh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+%26+Angular+Expert;Clean+Code+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+%26+Angular;Clean+Code+Enthusiast;" alt="Typing SVG" />
 
 <br/>
 
@@ -28,8 +28,8 @@ const abdoSaleh = {
 };
 ```
 
-- 🔭 Currently working on exciting **full-stack enterprise solutions**
-- 🌱 Deepening my expertise in **ASP.NET Core**, **Angular**, and **Microservices**
+- 🔭 Currently working on exciting **full-stack solutions**
+- 🌱 Deepening my expertise in **ASP.NET Core**, **Angular**
 - 💡 Passionate about **clean code**, **design patterns**, and **best practices**
 - 🤝 Open to collaborating on **innovative projects**
 - 🎯 Goal: Contribute more to **open source** and build **impactful solutions**
