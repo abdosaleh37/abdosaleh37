@@ -1,172 +1,122 @@
-<div align="center">
-
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Abdo Saleh
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+%26+Angular;Clean+Code+Enthusiast;" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:2E97F7,100:0d1117&height=250&section=header&text=Abdo%20Saleh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Angular&descAlignY=75&descSize=20&descColor=2E97F7" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdosaleh37)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdosaleh3742103@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdosaleh37)
+<p align="center">
+  <a href="https://linkedin.com/in/abdosaleh37">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:abdosaleh3742103@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+  </a>
+  <a href="https://github.com/abdosaleh37">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abdosaleh37&color=2E97F7&style=flat-square&label=Profile+Views" height="28"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=abdosaleh37&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<br/>
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
 ```typescript
 const abdoSaleh = {
-    role: "Full Stack Developer",
-    location: "Egypt 🇪🇬",
-    currentFocus: ["ASP.NET Core", "Angular", "Clean Architecture"],
-    lifePhilosophy: "Write code that speaks for itself",
-    funFact: "I debug in production... just kidding! 😄"
+  role     : "Full Stack Developer",
+  location : "Egypt 🇪🇬",
+  stack    : ["ASP.NET Core", "Angular", "C#", "TypeScript"],
+  arch     : ["Clean Architecture", "Design Patterns", "SOLID"],
+  motto    : "Write code that speaks for itself.",
+  coffee   : "☕ → 💻  (always)"
 };
 ```
 
-- 🔭 Currently working on exciting **full-stack solutions**
-- 🌱 Deepening my expertise in **ASP.NET Core**, **Angular**
-- 💡 Passionate about **clean code**, **design patterns**, and **best practices**
-- 🤝 Open to collaborating on **innovative projects**
-- 🎯 Goal: Contribute more to **open source** and build **impactful solutions**
-- ⚡ Fun fact: I turn coffee into code ☕➡️💻
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🔭 &nbsp;Building scalable **full-stack solutions**
+- 🌱 &nbsp;Mastering **ASP.NET Core**, **Angular** & **Clean Architecture**
+- 💡 &nbsp;Advocate of **SOLID**, **DRY** & **best practices**
+- 🤝 &nbsp;Open to collaborating on exciting **open-source** projects
+- 🎯 &nbsp;On a mission to ship **impactful software**
 
-## 🛠️ Tech Stack
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,git,github,visualstudio,vscode,postman,mysql&theme=dark&perline=13" />
+</p>
 
 <div align="center">
 
-### 🎯 Backend Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      <br>.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
-      <br>SQL Server
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-  </tr>
-</table>
-
-### 🔧 Tools & Technologies
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-      <br>VS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
+| 🎯 Backend | 🎨 Frontend | 🗄️ Database | 🔧 Tools |
+|:-----------:|:-----------:|:-----------:|:--------:|
+| ASP.NET Core | Angular 17+ | SQL Server | Git & GitHub |
+| C# | TypeScript | MySQL | Postman |
+| REST APIs | JavaScript | EF Core | Visual Studio |
+| Clean Architecture | HTML5 / CSS3 | LINQ | VS Code |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdosaleh37&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117" alt="Abdo Saleh github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdosaleh37&theme=react&hide_border=true&background=0d1117&stroke=0000&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" alt="Abdo Saleh streak stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdosaleh37&show_icons=true&count_private=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosaleh37&theme=react&hide_border=true&background=0d1117&stroke=0000&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" width="48%" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosaleh37&layout=compact&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=python" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdosaleh37&bg_color=0d1117&color=2E97F7&line=2E97F7&point=FFFFFF&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosaleh37&layout=donut&hide_border=true&title_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=python" width="38%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdosaleh37&bg_color=0d1117&color=2E97F7&line=2E97F7&point=FFFFFF&hide_border=true&area=true&area_color=2E97F7" width="58%" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🏆 GitHub Trophies
+### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdosaleh37&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdosaleh37&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 💭 Dev Quote
+### 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdosaleh37/abdosaleh37/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-</div>
+### 💭 Inspiration
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
-## 🤝 Connect With Me
+---
 
-<div align="center">
+### 🤝 Let's Connect
 
-**I'm always excited to connect with fellow developers and tech enthusiasts!**
+<p align="center">
+  <i>Open to exciting opportunities, collaborations, and tech talks!</i>
+  <br/><br/>
+  <a href="https://linkedin.com/in/abdosaleh37">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:abdosaleh3742103@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdosaleh37)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdosaleh3742103@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:2E97F7,100:0d1117&height=120&section=footer&animation=fadeIn" />
